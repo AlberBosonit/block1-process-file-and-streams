@@ -1,0 +1,9 @@
+Jesús:Logroño:41
+Andres:Madrid:19
+Angel Mari:Segovia:
+Laura Saenz::23
+Fernando:Zaragoza
+Noelia:Sevilla:28
+Maria Calvo::38
+Roberto:Madrid:20
+Carles:Barcelona:37
